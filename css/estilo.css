@@ -1,3 +1,5 @@
 .section-geral{margin-top: 30px;min-height: 600px}
 .img-foto{float: left;margin-right: 30px;box-shadow: 2px 2px 3px #666}
 .card-panel a{text-decoration: none;color:#fff}
+.form-contato{padding: 20px}
+.section-geral .form-contato{padding: 50px}
